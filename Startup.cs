@@ -53,8 +53,8 @@ namespace Rim.API
 				config.PostProcess = (document) =>
 				{
 					document.Info.Version = "v1";
-					document.Info.Title = "Excel.Api";
-					document.Info.Description = "Excel.Api ASP.NET Core 3.1 Rest API";
+					document.Info.Title = "Rim.Api";
+					document.Info.Description = "Rim.Api ASP.NET Core 3.1 Rest API";
 				};
 			});
 
